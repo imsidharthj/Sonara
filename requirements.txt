@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+groq
+openai
+elevenlabs
+langgraph
+langchain-openai
+python-dotenv
